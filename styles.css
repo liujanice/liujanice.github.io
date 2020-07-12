@@ -1,10 +1,3 @@
-.profile-img {
-  border-radius: 50%;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  width: 250px;
-  height: 250px;
-  /*box-shadow: 2px 2px 4px #000000;*/
-}
 
 h1 {
  text-align: center;
@@ -16,6 +9,27 @@ body {
   font-family: "Arial"
 }
 
+.container {
+  text-align: left;
+  font-family: "Arial"
+}
+
+.header-links {
+  font-family: "Arial";
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.profile-img {
+  border-radius: 50%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  width: 250px;
+  height: 250px;
+  /*box-shadow: 2px 2px 4px #000000;*/
+}
 
 .aboutme {
   text-align: center;
