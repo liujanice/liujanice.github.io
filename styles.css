@@ -30,6 +30,7 @@ body {
   border-radius: 50%;
   width: 250px;
   height: 250px;
+  text-align: left;
   /*box-shadow: 2px 2px 4px #000000;*/
 }
 
