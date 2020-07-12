@@ -1,7 +1,12 @@
-img {
- 
+profile_img {
   border-radius: 50%
 }
+
+h1 {
+ text-align: center;
+ font-family: 'Playfair Display', serif;
+}
+
 body {
   text-align: center;
   font-family: "Arial"
