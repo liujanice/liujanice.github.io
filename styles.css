@@ -77,7 +77,7 @@ nav {
 .nav-link a::after {
     display: inline-block;
     color: #000;
-    content: ' ';
+    content: '  •  ';
     font-size: 80%;
     font-weight: bold;
     padding: 0 3px;
