@@ -82,3 +82,7 @@ nav {
     font-weight: bold;
     padding: 0 3px;
 }
+
+div.indent {
+  text-indent: 30px;
+}
